@@ -34,7 +34,7 @@ function Values() {
     <>
       <section className="px-6 py-10 grid grid-cols-1 lg:grid-cols-2 gap-10 items-stretch relative bg-[#FCF8F3] overflow-hidden">
         {/* ✅ القسم الأزرق */}
-        <div className="relative flex justify-center overflow-visible py-20 bg-blue-600 h-full">
+        <div className="relative flex justify-center overflow-visible py-20 h-full">
           <div className="relative z-10">
             <img
               src="/images/va.webp"
@@ -57,7 +57,7 @@ function Values() {
           {/* <div className="absolute bottom-[190px] left-1/2 transform -translate-x-1/2 translate-y-1/2 scale-125">
             <img src="/images/b0.webp" alt="Middle Image" className="w-full" />
           </div> */}
-          <div className="absolute bottom-[220px] lg:bottom-[220px] md:bottom-[180px] left-[330px] hidden sm:block md:left-[400px] lg:left-[330px] transform translate-y-1/2 -translate-x-1/2 w-[100%]  md:w-[75%] lg:w-[100%] scale-100  md:scale-90 lg:scale-100">
+          <div className="absolute bottom-[210px] lg:bottom-[210px] md:bottom-[180px] left-[355px] hidden sm:block md:left-[400px] lg:left-[335px] transform translate-y-1/2 -translate-x-1/2 w-[100%]  md:w-[75%] lg:w-[100%] scale-100  md:scale-90 lg:scale-100">
             <img src="/images/b0.webp" alt="Bottom Image" className="w-full" />
           </div>
 
@@ -75,7 +75,7 @@ function Values() {
           />
         </div>
         {/* ✅ القسم الأخضر */}
-        <div className="space-y-6 bg-green-400 flex flex-col justify-center min-h-screen">
+        <div className="space-y-6 flex flex-col justify-center min-h-screen">
           <h2 className="text-4xl font-extrabold text-primary text-center lg:text-left mb-9 z-10">
             Sana’s Values
           </h2>
