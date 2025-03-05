@@ -57,7 +57,7 @@ function Values() {
           {/* <div className="absolute bottom-[190px] left-1/2 transform -translate-x-1/2 translate-y-1/2 scale-125">
             <img src="/images/b0.webp" alt="Middle Image" className="w-full" />
           </div> */}
-          <div className="absolute bottom-[180px] lg:bottom-[180px] md:bottom-[180px] left-[350px] hidden sm:block md:left-[400px] lg:left-[350px] transform translate-y-1/2 -translate-x-1/2 w-[100%]  md:w-[75%] lg:w-[100%] scale-100  md:scale-90 lg:scale-100">
+          <div className="absolute bottom-[220px] lg:bottom-[220px] md:bottom-[180px] left-[330px] hidden sm:block md:left-[400px] lg:left-[330px] transform translate-y-1/2 -translate-x-1/2 w-[100%]  md:w-[75%] lg:w-[100%] scale-100  md:scale-90 lg:scale-100">
             <img src="/images/b0.webp" alt="Bottom Image" className="w-full" />
           </div>
 

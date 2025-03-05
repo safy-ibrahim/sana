@@ -9,7 +9,7 @@ function Layout() {
     <>
       <Header />
       <Navbar />
-      <main>
+      <main className="pt-[92px]">
         <Outlet />
       </main>
 

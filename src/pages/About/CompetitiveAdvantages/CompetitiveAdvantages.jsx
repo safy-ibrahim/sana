@@ -11,7 +11,7 @@ function CompetitiveAdvantages() {
         <div className="flex flex-col md:flex-row  justify-center gap-6 max-w-6xl mx-auto px-4 items-stretch mt-20">
           <div
             className="group flex flex-col items-center text-center border-2 border-primary rounded-3xl p-4 w-full md:w-1/2 bg-white shadow-md space-y-4 
-                transition-all duration-300 hover:bg-red-600 hover:text-white"
+                transition-all duration-300 hover:bg-primary hover:text-white"
           >
             <img
               src="/images/adv2.svg"
