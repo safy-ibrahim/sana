@@ -1,0 +1,15 @@
+
+
+@import '@fontsource/montserrat';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply font-en;
+    @apply bg-[#FCF8F3];
+}
+
+
